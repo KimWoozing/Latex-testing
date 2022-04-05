@@ -1,2 +1,5 @@
 # Latex testing
-'$\pi$'
+\pi
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
