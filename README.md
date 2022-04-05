@@ -1,2 +1,2 @@
 # Latex testing
-\pi
+$\pi
